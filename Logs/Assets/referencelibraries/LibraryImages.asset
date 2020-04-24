@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: LibraryImages
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5235446492418838855
+  m_GuidHigh: 7209320473321336243
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5268813580721048087
+      m_GuidHigh: 16480278301338479262
+    m_SerializedTextureGuid:
+      m_GuidLow: 15926049909039607489
+      m_GuidHigh: 18236658756950647578
+    m_Size: {x: 0.24, y: 0.22268142}
+    m_SpecifySize: 0
+    m_Name: completeStoryboardVideo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5284393880595505531
+      m_GuidHigh: 2668286692489503380
+    m_SerializedTextureGuid:
+      m_GuidLow: 10337113602528372621
+      m_GuidHigh: 3085730130023403352
+    m_Size: {x: 0.115, y: 0.09747151}
+    m_SpecifySize: 0
+    m_Name: MSVideo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4771325525618689678
+      m_GuidHigh: 16051171401173769896
+    m_SerializedTextureGuid:
+      m_GuidLow: 18087597050608906891
+      m_GuidHigh: 4432031333729979112
+    m_Size: {x: 0.115, y: 0.093811534}
+    m_SpecifySize: 0
+    m_Name: LSVideo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4897402024289743661
+      m_GuidHigh: 9040234736223728831
+    m_SerializedTextureGuid:
+      m_GuidLow: 6963801689000945886
+      m_GuidHigh: 3909799032913616266
+    m_Size: {x: 0.4, y: 0.35914636}
+    m_SpecifySize: 0
+    m_Name: ZoomVideo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5435429663072588738
+      m_GuidHigh: 13026614309114261644
+    m_SerializedTextureGuid:
+      m_GuidLow: 8004124102733111739
+      m_GuidHigh: 1001668267023797450
+    m_Size: {x: 0.37, y: 0.3303369}
+    m_SpecifySize: 0
+    m_Name: MLSVideo
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5135202122621310104
+      m_GuidHigh: 14545074654677255329
+    m_SerializedTextureGuid:
+      m_GuidLow: 14002895525597513914
+      m_GuidHigh: 16169152586463309483
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: LightingExample
+    m_Texture: {fileID: 0}
