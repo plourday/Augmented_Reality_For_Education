@@ -1,18 +1,30 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
+{ 
+    [SerializeField] private Button NewSessionButton;
+    [SerializeField] private Button SignInButton;
+
+    public void Start()
     {
-        
+        NewSessionButton.onClick.AddListener(SceneSwitchARSession);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void SceneSwitchARSession()
     {
-        
+         SceneManager.LoadScene("ARSession");
     }
+
+    public void SceneSwitchSignIn()
+    {
+        SceneManager.LoadScene("SignInMenu");
+    }
+
+    
+   
+
 }
