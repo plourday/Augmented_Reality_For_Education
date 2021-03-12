@@ -1,4 +1,4 @@
-<h1>Augmented_Reality_For_Education</h1>
+<h1>Augmented Reality For Education</h1>
 
 Hello!
 This project is an augmented reality(AR) app that is designed for the purpose of education. 
